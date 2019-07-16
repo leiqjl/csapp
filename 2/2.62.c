@@ -1,5 +1,4 @@
 #include <stdio.h>
-#define sizeof_int sizeof(int)
 int int_shifts_are_arithmetic();
 int main(void)
 {
